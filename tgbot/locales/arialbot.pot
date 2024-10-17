@@ -1,0 +1,177 @@
+# Translations template for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-05-27 00:43+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: handlers/users/cart.py:21 handlers/users/cart.py:57
+msgid ""
+"Корзина: \n"
+"\n"
+msgstr ""
+
+#: handlers/users/cart.py:36 handlers/users/cart.py:72
+msgid "Количество"
+msgstr ""
+
+#: handlers/users/cart.py:39 handlers/users/cart.py:75
+msgid "🗂 Оформить заказ"
+msgstr ""
+
+#: handlers/users/cart.py:95 handlers/users/cart.py:111
+#: handlers/users/constant_customer.py:38
+#: handlers/users/constant_customer.py:72
+msgid "Да ✅"
+msgstr ""
+
+#: handlers/users/cart.py:96 handlers/users/cart.py:112
+msgid "Отмена ❌"
+msgstr ""
+
+#: handlers/users/cart.py:99
+msgid "Вы уверены, что хотите оформить заказ?"
+msgstr ""
+
+#: handlers/users/cart.py:132
+msgid "Ваш заказ успешно принят ✅"
+msgstr ""
+
+#: handlers/users/cart.py:138
+msgid "Ваш заказ отменен"
+msgstr ""
+
+#: handlers/users/constant_customer.py:15
+msgid "Зарегистрироваться"
+msgstr ""
+
+#: handlers/users/constant_customer.py:16
+msgid "Цены товаров"
+msgstr ""
+
+#: handlers/users/constant_customer.py:17
+msgid "Что Вы хотите сделать?"
+msgstr ""
+
+#: handlers/users/constant_customer.py:34
+#: handlers/users/constant_customer.py:66
+#: handlers/users/constant_customer.py:92 handlers/users/custom.py:20
+msgid "Бренд"
+msgstr ""
+
+#: handlers/users/constant_customer.py:35
+#: handlers/users/constant_customer.py:67
+#: handlers/users/constant_customer.py:93 handlers/users/custom.py:21
+msgid "Номер телефона"
+msgstr ""
+
+#: handlers/users/constant_customer.py:36
+#: handlers/users/constant_customer.py:69
+msgid "Все верно?"
+msgstr ""
+
+#: handlers/users/constant_customer.py:39
+#: handlers/users/constant_customer.py:73
+msgid "⚙️ Настройки"
+msgstr ""
+
+#: handlers/users/constant_customer.py:51
+#: handlers/users/constant_customer.py:78
+msgid "Введите Ваше Имя и Фамилию"
+msgstr ""
+
+#: handlers/users/constant_customer.py:68
+#: handlers/users/constant_customer.py:94
+msgid "Имя и Фамилия"
+msgstr ""
+
+#: handlers/users/constant_customer.py:99
+msgid "Спасибо и тд"
+msgstr ""
+
+#: handlers/users/custom.py:22
+msgid "Язык"
+msgstr ""
+
+#: handlers/users/custom.py:23 handlers/users/order.py:21
+#: handlers/users/order.py:54 handlers/users/order.py:168
+#: handlers/users/order.py:256 handlers/users/order.py:361
+#: handlers/users/portfolio.py:19 handlers/users/portfolio.py:48
+#: handlers/users/portfolio.py:134 handlers/users/portfolio.py:214
+msgid "Назад"
+msgstr ""
+
+#: handlers/users/custom.py:34
+msgid "Введите название Вашего бренда:"
+msgstr ""
+
+#: handlers/users/custom.py:41 handlers/users/custom.py:111
+msgid "Отправьте ваш номер телефона (998xxxxxxxxx):"
+msgstr ""
+
+#: handlers/users/custom.py:52 handlers/users/custom.py:70
+#: handlers/users/custom.py:107 handlers/users/custom.py:143
+msgid "Отменить"
+msgstr ""
+
+#: handlers/users/custom.py:57 handlers/users/custom.py:145
+msgid "Выберите язык:"
+msgstr ""
+
+#: handlers/users/custom.py:71 handlers/users/custom.py:108
+#: handlers/users/custom.py:144
+msgid "Изменение отменено"
+msgstr ""
+
+#: handlers/users/custom.py:72 handlers/users/custom.py:95
+#: handlers/users/custom.py:109
+msgid "Успешно изменено"
+msgstr ""
+
+#: handlers/users/custom.py:110
+msgid "📞 Отправить Мой контакт"
+msgstr ""
+
+#: handlers/users/order.py:20 handlers/users/order.py:53
+#: handlers/users/order.py:167 handlers/users/order.py:255
+#: handlers/users/order.py:360 handlers/users/portfolio.py:18
+#: handlers/users/portfolio.py:47 handlers/users/portfolio.py:133
+#: handlers/users/portfolio.py:213
+msgid "Главное Меню"
+msgstr ""
+
+#: handlers/users/order.py:22 handlers/users/order.py:55
+#: handlers/users/order.py:169
+msgid "Другое"
+msgstr ""
+
+#: handlers/users/order.py:43 handlers/users/portfolio.py:37
+msgid "Выберите категорию"
+msgstr ""
+
+#: handlers/users/order.py:80 handlers/users/order.py:283
+msgid "Выберите подкатегорию"
+msgstr ""
+
+#: handlers/users/order.py:85 handlers/users/order.py:257
+#: handlers/users/order.py:363 handlers/users/portfolio.py:55
+#: handlers/users/portfolio.py:136 handlers/users/portfolio.py:216
+msgid "Наши продукты в категории"
+msgstr ""
+
+#: handlers/users/order.py:176
+msgid "Наши продукты в подкатегории"
+msgstr ""
+
